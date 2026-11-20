@@ -1,8 +1,26 @@
 {
   "notice": null,
-  "minVersion": { "ios": "1.0.0", "android": "1.0.0" },
+  "minVersion": {
+    "ios": "1.0.0",
+    "android": "1.0.0"
+  },
   "updateText": "",
-  "codes": [],
+  "codes": [
+    {
+      "code": "PRETEST1121",
+      "msg": "預約獎勵測試：特調、開幕背景、莓莓服裝、喜鵲都解鎖了！",
+      "coins": 1000,
+      "recipe": "opening",
+      "bg": "opening",
+      "outfit": "launch",
+      "magpie": true,
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "until": "2026-12-10T00:00:00+08:00"
+    }
+  ],
   "mail": [
     {
       "id": "2026-12-24-xmas-beta",
@@ -10,7 +28,10 @@
       "text": "聖誕快樂！謝謝你在封測期間幫忙顧店 🎄\n從小柴和抹茶裡選一位，送他一套聖誕服（穿上後小費 +10%）。",
       "outfitPick": "xmas",
       "beta": true,
-      "platforms": ["ios", "android"],
+      "platforms": [
+        "ios",
+        "android"
+      ],
       "date": "2026-12-24T00:00:00+08:00",
       "until": "2027-01-31T00:00:00+08:00"
     }
