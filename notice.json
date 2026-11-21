@@ -29,6 +29,17 @@
         "android"
       ],
       "until": "2026-12-31T00:00:00+08:00"
+    },
+    {
+      "code": "MAKEUP1121",
+      "msg": "每日限定已開通，這個月 1 號起的日子都可以補玩了！",
+      "daily": true,
+      "dailyMonth": true,
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "until": "2026-12-31T00:00:00+08:00"
     }
   ],
   "mail": [
