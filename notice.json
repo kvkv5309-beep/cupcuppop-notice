@@ -19,6 +19,16 @@
         "android"
       ],
       "until": "2026-12-10T00:00:00+08:00"
+    },
+    {
+      "code": "DAILY1121",
+      "msg": "每日限定關卡已開通！回首頁就能挑戰",
+      "daily": true,
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "until": "2026-12-31T00:00:00+08:00"
     }
   ],
   "mail": [
