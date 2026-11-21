@@ -52,6 +52,39 @@
         "android"
       ],
       "until": "2026-12-31T00:00:00+08:00"
+    },
+    {
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "until": "2026-12-31T00:00:00+08:00",
+      "code": "DAILY7TEST",
+      "msg": "測試：每日限定累計設成 6 天，再過一關（今天或補玩）就拿到 7 天：1000 金幣",
+      "dailySet": 6,
+      "dailyMonth": true
+    },
+    {
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "until": "2026-12-31T00:00:00+08:00",
+      "code": "DAILY15TEST",
+      "msg": "測試：每日限定累計設成 14 天，再過一關（今天或補玩）就拿到 15 天：3000 金幣＋全勤日曆",
+      "dailySet": 14,
+      "dailyMonth": true
+    },
+    {
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "until": "2026-12-31T00:00:00+08:00",
+      "code": "DAILY30TEST",
+      "msg": "測試：每日限定累計設成 29 天，再過一關（今天或補玩）就拿到 30 天：8000 金幣＋小企金牌咖啡師",
+      "dailySet": 29,
+      "dailyMonth": true
     }
   ],
   "mail": [
