@@ -40,6 +40,18 @@
         "android"
       ],
       "until": "2026-12-31T00:00:00+08:00"
+    },
+    {
+      "code": "REWARD1121",
+      "msg": "測試：全勤日曆、小企「金牌咖啡師」服裝已送到！",
+      "deco": "calendar",
+      "outfit": "barista",
+      "daily": true,
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "until": "2026-12-31T00:00:00+08:00"
     }
   ],
   "mail": [
